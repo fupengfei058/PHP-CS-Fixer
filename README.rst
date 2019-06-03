@@ -12,10 +12,10 @@ sudo chmod a+x /usr/local/bin/php-cs-fixer
 sudo /usr/local/php/bin/php /usr/local/bin/php-cs-fixer selfupdate
 ```
 #### Step 2: 打开 Settings -> Tools -> External Tools
-![github](https://github.com/fupengfei058/PHP-CS-Fixer/tree/2.15/pic/1.png)
+![github](https://github.com/fupengfei058/PHP-CS-Fixer/blob/2.15/pic/1.png)
 
 #### Step 3:按照下图配置
-![github](https://github.com/fupengfei058/PHP-CS-Fixer/tree/2.15/pic/2.jpg)
+![github](https://github.com/fupengfei058/PHP-CS-Fixer/blob/2.15/pic/2.jpg)
 
 #### Step 4:创建一个名为.php_cs的配置文件，内容如下，可自行调整
 ```php
@@ -72,8 +72,8 @@ return PhpCsFixer\Config::create()
 进入phpStrom-> Settings->Appearance & Behavior -> Keymap
 
 使用查找 php-cs-fixer
-![github](https://github.com/fupengfei058/PHP-CS-Fixer/tree/2.15/pic/3.png)
-![github](https://github.com/fupengfei058/PHP-CS-Fixer/tree/2.15/pic/4.png)
+![github](https://github.com/fupengfei058/PHP-CS-Fixer/blob/2.15/pic/3.png)
+![github](https://github.com/fupengfei058/PHP-CS-Fixer/blob/2.15/pic/4.png)
 
 
 ## Sublime Text安装方法
